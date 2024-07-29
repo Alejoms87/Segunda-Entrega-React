@@ -1,0 +1,21 @@
+.saludo{
+    text-align: center;
+    margin: 10px;
+}
+
+.contenedorCard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card {
+    margin: 5px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
